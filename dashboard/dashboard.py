@@ -25,8 +25,8 @@ def load_data(path):
         return None
 
 # Perbaiki jalur file
-aotizhongxin_path = "aotizhongxin.csv"
-changping_path = "changping.csv"
+aotizhongxin_path = "dashboard/aotizhongxin.csv"
+changping_path = "dashboard/changping.csv"
 
 df_aotizhongxin = load_data(aotizhongxin_path)
 df_changping = load_data(changping_path)
