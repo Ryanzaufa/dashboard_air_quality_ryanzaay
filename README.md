@@ -13,24 +13,24 @@ Repository ini merupakan proyek analisis data Air Quality sederhana yang saya ke
 
 # Clone Repository ke Lokal
 
-'''shell
+```shell
 git clone https://github.com/Ryanzaufa/dashboard_air_quality_ryanzaay
-'''
+```
 
 # Setup Environment dan Install Dependencies
 
-'''shell
+```shell
 pip install streamlit
 pip install -r requirements.txt
-'''
+```
 
 # Akses
 Masuk ke direktori lokal
 
-'''shell
+```shell
 cd dashboard_air_quality_ryanzaay/dashboard/
 streamlit run dashboard.py
-'''
+```
 
 atau anda dapat mengakses dashboard melalui [Air Quality Project](https://dashboard-air-quality-ryanza-aufa-y.streamlit.app/)
 
